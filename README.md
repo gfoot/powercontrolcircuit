@@ -6,6 +6,10 @@ Assembled on breadboard | Assembled on veroboard
 
 This is a circuit for soft-switching a 5V DC input, with a configurable current limit cutoff, tested from around 10mA up to 1.2A.
 
+This is useful because it protects your power supply, wiring, and components against adverse effects due to things like 
+short circuiting, accidental reversed power polarity, placing components incorrectly or backwards in a circuit, or other
+component failure.
+
 It's not a boost/buck converter or regulator, just a switch for an existing regulated DC input.
 
 ## Demo video
