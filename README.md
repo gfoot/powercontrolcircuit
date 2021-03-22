@@ -12,10 +12,6 @@ component failure.
 
 It's not a boost/buck converter or regulator, just a switch for an existing regulated DC input.
 
-## Demo video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DyxhS2SbpGM" target="_blank"><img src="http://img.youtube.com/vi/DyxhS2SbpGM/0.jpg" alt="Demo video on YouTube" width="240" height="180" border="10" /></a>
-
 ## Operation
 
 Press SW1 to turn the power on.  The LED indicates that power is on.  Press SW2 to turn the power off.
@@ -23,6 +19,8 @@ Press SW1 to turn the power on.  The LED indicates that power is on.  Press SW2 
 Use RV2 and RV3 to tune the range of currents that are selectable.  See [configuration guide](docs/configuration.md) for the tuning procedure.
 
 Once tuned, RV1 selects the current limit.  When more than this amount of current is drawn, the circuit automatically powers off.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DyxhS2SbpGM" target="_blank"><img src="http://img.youtube.com/vi/DyxhS2SbpGM/0.jpg" alt="Demo video on YouTube" width="240" height="180" border="10" /></a>
 
 ## Schematic
 
