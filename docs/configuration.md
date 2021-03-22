@@ -53,7 +53,7 @@ R7 and R8.
 * Turn on the circuit and check it stays on - if it doesn't, increase RV2 until it stays on
 * Decrease RV2 until the circuit turns off
 
-Repeat steps 3 and 4 until you're happy with the behaviour at the extreme
+Repeat steps 2 and 3 until you're happy with the behaviour at the extreme
 settings of RV1.  For me it only takes a couple of iterations to get settings
 that work well.
 
