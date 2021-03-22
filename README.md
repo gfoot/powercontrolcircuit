@@ -1,4 +1,4 @@
-# Soft power supply circuit with tunable overcurrent protection cutoff
+# Soft Power Switch Circuit with Tunable Overcurrent Protection Cutoff
 
 <img src="docs/v4_breadboard.jpg" title="Power control circuit assembled on breadboard" height="200"> | <img src="docs/v4_veroboard.jpg" title="Power control circuit assembled on veroboard" height="200"> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DyxhS2SbpGM" target="_blank"><img src="http://img.youtube.com/vi/DyxhS2SbpGM/0.jpg" alt="Demo video on YouTube" width="240" height="180" border="10" /></a>
 :----:|:----:|:----:
