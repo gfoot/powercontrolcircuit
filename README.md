@@ -1,8 +1,8 @@
 # Soft power supply circuit with tunable overcurrent protection cutoff
 
-<img src="docs/v4_breadboard.jpg" title="Power control circuit assembled on breadboard" height="270"> | <img src="docs/v4_veroboard.jpg" title="Power control circuit assembled on veroboard" height="270">
-:----:|:----:
-Assembled on breadboard | Assembled on veroboard
+<img src="docs/v4_breadboard.jpg" title="Power control circuit assembled on breadboard" height="200"> | <img src="docs/v4_veroboard.jpg" title="Power control circuit assembled on veroboard" height="200"> | <a href="http://www.youtube.com/watch?feature=player_embedded&v=DyxhS2SbpGM" target="_blank"><img src="http://img.youtube.com/vi/DyxhS2SbpGM/0.jpg" alt="Demo video on YouTube" width="240" height="180" border="10" /></a>
+:----:|:----:|:----:
+Assembled on breadboard | Assembled on veroboard | Demo video
 
 This is a circuit for soft-switching a 5V DC input, with a configurable current limit cutoff, tested from around 10mA up to 1.2A.
 
@@ -20,7 +20,6 @@ Use RV2 and RV3 to tune the range of currents that are selectable.  See [configu
 
 Once tuned, RV1 selects the current limit.  When more than this amount of current is drawn, the circuit automatically powers off.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DyxhS2SbpGM" target="_blank"><img src="http://img.youtube.com/vi/DyxhS2SbpGM/0.jpg" alt="Demo video on YouTube" width="240" height="180" border="10" /></a>
 
 ## Schematic
 
